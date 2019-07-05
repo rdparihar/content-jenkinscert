@@ -4,7 +4,7 @@
   <groupId>com.codeagami.example</groupId>
   <artifactId>tomcatapplauncherexample</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>tomcatLauncher Maven demo</name>
   <url>http://maven.apache.org</url>
   <properties>
